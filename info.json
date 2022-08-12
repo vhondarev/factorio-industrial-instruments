@@ -1,0 +1,12 @@
+{
+  "name": "industrial-instruments",
+  "version": "1.0.0",
+  "title": "Industrial Instruments",
+  "description": "Industrial Instruments accelerate manual work",
+  "author": "Alkharid",
+  "dependencies": [
+    "base >= 1.1.0",
+    "stdlib >= 1.4.7"
+  ],
+  "factorio_version": "1.1"
+}

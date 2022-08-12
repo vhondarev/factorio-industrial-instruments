@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 8/12/2022
+  Changes:
+    - initial release
+    - added two technologies that increase hand mining/deconstruction speed
